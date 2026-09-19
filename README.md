@@ -1,3 +1,4 @@
+FINALLY left bedrotting and here is my cute simple small calculator :3
 # Python Calculator
 
 A simple, interactive calculator program written in Python. This project handles fundamental mathematical operations and serves as a practical application of core Python programming concepts like multi-parameter functions, loops, and user input.
